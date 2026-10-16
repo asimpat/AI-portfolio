@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="AI icon">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#fb7185"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#f4f4f5"/>
+      <stop offset="100%" stop-color="#d4d4d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="#0f172a"/>
+  <circle cx="64" cy="64" r="34" fill="none" stroke="url(#g1)" stroke-width="8"/>
+  <circle cx="64" cy="64" r="12" fill="url(#g2)"/>
+  <path d="M64 18v14M64 96v14M18 64h14M96 64h14M31 31l10 10M87 87l10 10M97 31l-10 10M41 87l-10 10" stroke="url(#g1)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 54l9 18 19-26 17 31H40l8-23z" fill="url(#g2)" opacity="0.94"/>
+</svg>
